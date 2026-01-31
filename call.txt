@@ -1,0 +1,49 @@
+Good Call Defination:
+
+A "Good Call" in the context of Customer Support and Quality Assurance is one that balances efficiency, accuracy, and customer satisfaction. It is typically defined by the successful execution of the following components:
+
+### 1. Opening & Verification
+*   **Professional Greeting:** Standardized energetic greeting including the agent's name and company.
+*   **Verification:** Successfully authenticating the customer (e.g., name, account number, DOB) according to security protocols before discussing account details.
+
+### 2. Communication & Soft Skills
+*   **Active Listening:** Allowing the customer to speak without interruption; making acknowledging statements ("I understand," "I see").
+*   **Tone & Empathy:** Using a warm, approachable tone. Expressing genuine empathy for verify frustrations (e.g., "I am sorry to hear you are facing this issue").
+*   **Clarity:** Speaking clearly, avoiding internal jargon, and ensuring the customer understands technical steps.
+
+### 3. Problem Solving (Resolution)
+*   **Root Cause Analysis:** Asking probing questions to correctly identify the specific issue, rather than just treating symptoms.
+*   **Accuracy:** Providing correct information and following the correct Standard Operating Procedures (SOPs).
+*   **First Call Resolution (FCR):** Attempting to fully resolve the issue during the interaction so the customer does not need to call back.
+
+### 4. Call Management
+*   **Hold Procedures:** Asking permission before placing the user on hold, explaining why, and checking back frequently (e.g., every 2 minutes).
+*   **Dead Air:** Minimizing silence while looking up information; keeping the customer engaged.
+*   **Efficiency:** Managing the call time effectively without rushing the customer.
+
+### 5. Compliance & Security
+*   **Adherence:** Strictly following legal disclosures, disclaimers, and data protection rules (e.g., PCI-DSS for credit card handling).
+*   **Scripting:** Reading mandatory scripts where required (e.g., forrecorded consent or upgradess).
+
+### 6. Closing
+*   **Recap:** Summarizing the actions taken and the next steps (if any).
+*   **Closing Offer:** Asking, "Is there anything else I can help you with today?"
+*   **Branded Goodbye:** Ending the call professionally.
+
+
+
+Phases In The Calls:
+
+1. Opening
+2. Verification
+3. Issue Identification
+4. Problem Solving (Resolution)
+5. Closing
+
+
+Quality Dimensions (evaluated across phases)
+
+1. Communication & Soft Skills
+2. Compliance & Security
+3. Call Management
+4. Accuracy & SOP adherence

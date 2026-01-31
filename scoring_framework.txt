@@ -1,0 +1,65 @@
+# Basic Call Scoring Framework
+**Total Score:** 100 Points
+**Passing Score:** 85%
+**Critical Fail:** Any failure in the *Compliance & Security* section results in an automatic score of 0.
+
+---
+
+## Part 1: Process Phases (50 Points)
+*Evaluates the structural adherence to the call flow.*
+
+### 1. Opening (10 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Greeting** | Used standard professional greeting with name & company. | 5 |
+| **Verification** | Authenticated customer identity (Name, ID, DOB) *before* discussed details. | 5 |
+
+### 2. Issue Identification (10 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Listening & Probing** | Listened without interrupting; asked questions to identify root cause. | 5 |
+| **Understanding** | Acknowledged issue correctly (e.g., "I understand you need help with..."). | 5 |
+
+### 3. Problem Solving & Resolution (20 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **SOP Adherence** | Followed correct Standard Operating Procedures for the issue. | 10 |
+| **Accuracy** | Provided correct and relevant information/solution. | 5 |
+| **Solution Action** | Completed necessary system actions correctly. | 5 |
+
+### 4. Closing (10 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Recap** | Summarized findings and actions taken. | 4 |
+| **Closing Offer** | Asked "Is there anything else I can help with?" | 3 |
+| **Branded Goodbye** | Professional sign-off. | 3 |
+
+---
+
+## Part 2: Quality Dimensions (50 Points)
+*Evaluates the manner in which the call was handled.*
+
+### 1. Communication & Soft Skills (20 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Tone & Empathy** | Warm, professional tone. Showed empathy for issues. | 10 |
+| **Clarity** | Clear articulation, no internal jargon, easy to understand. | 5 |
+| **Active Listening** | Used verbal nods ("I see", "Okay") and avoided dead air. | 5 |
+
+### 2. Call Management (15 Points)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Hold Procedures** | Asked permission, explained reason, checked specific intervals. | 5 |
+| **Efficiency (AHT)** | Managed time well, minimized dead air / silence. | 5 |
+| **Control** | Guided the call effectively (lead the call vs. being led). | 5 |
+
+### 3. Compliance & Security (15 Points - CRITICAL)
+| Criteria | Description | Points |
+| :--- | :--- | :--- |
+| **Data Privacy** | Did not reveal PII to unverified persons. | 5 |
+| **Mandatory Scripts** | Read all legal disclaimers/consent scripts verbatim. | 5 |
+| **Adherence** | Followed all regulatory/company policy rules (e.g. PCI-DSS). | 5 |
+*(Note: Failure here often results in auto-fail regardless of other scores)*
+
+---
+
