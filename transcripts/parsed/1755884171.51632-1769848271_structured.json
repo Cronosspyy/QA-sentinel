@@ -1,0 +1,618 @@
+{
+  "call_id": "1755884171.51632-1769848271",
+  "source": "aws_transcribe",
+  "speaker_map": {
+    "spk_0": "Agent",
+    "spk_1": "Customer"
+  },
+  "summary": {
+    "num_turns": 67,
+    "interruptions": 22,
+    "duration_sec": 834.609
+  },
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Agent",
+      "start": 2.4,
+      "end": 2.759,
+      "text": "Yeah",
+      "silence_after": 1.23,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Agent",
+      "start": 3.99,
+      "end": 9.399,
+      "text": "Um the bank would not even release the money necessarily to Atomic because that's a different organisation",
+      "silence_after": 4.11,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Agent",
+      "start": 13.51,
+      "end": 14.13,
+      "text": "Hello",
+      "silence_after": 1.5,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Agent",
+      "start": 15.63,
+      "end": 16.93,
+      "text": "Benjamin can you hear me",
+      "silence_after": 0.42,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Customer",
+      "start": 17.35,
+      "end": 18.01,
+      "text": "Hello",
+      "silence_after": 0.38,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Agent",
+      "start": 18.389,
+      "end": 19.29,
+      "text": "Benjamin",
+      "silence_after": 0.46,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Customer",
+      "start": 19.75,
+      "end": 23.37,
+      "text": "Yes hi Jorgen hello I called uh not so long ago",
+      "silence_after": 0.22,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Agent",
+      "start": 23.59,
+      "end": 27.889,
+      "text": "Yeah sorry we we take the phone and then it disconnects Uh sorry about that",
+      "silence_after": 0.09,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Customer",
+      "start": 27.979,
+      "end": 28.489,
+      "text": "Oh really",
+      "silence_after": 0.42,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Agent",
+      "start": 28.909,
+      "end": 30.51,
+      "text": "Yeah it has right now We got",
+      "silence_after": 0.1,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Customer",
+      "start": 30.61,
+      "end": 32.119,
+      "text": "I got there too late just now",
+      "silence_after": 0.01,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Agent",
+      "start": 32.13,
+      "end": 32.139,
+      "text": "OK",
+      "silence_after": 1.67,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Customer",
+      "start": 33.81,
+      "end": 63.049,
+      "text": "Well uh at least we got each other right here right now Uh listen Eugen as I was told by my finance team they looked into this Now I personally do with Atomic uh but I to be honest I never cashed out I stuck by my crypto on Atomic I never moved anything out of Atomic right Let's put it this way So my knowledge personal knowledge may be limited but upon checking everything up with my finance team uh and they're telling me that the taxes are included in this money",
+      "silence_after": 1.67,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Customer",
+      "start": 64.72,
+      "end": 105.33,
+      "text": "So the taxes are included in this particular amount of cash that they're asking of you now How are they planning to refund it I have no idea right That's something that I was not explain but uh the money that is supposed to be coming in to your account and most likely the next step will be to ask you for the payment details I suppose like where is the money going to be sent in Um the money will be coming in from an account that is not related to crypto Hence that is the reason how they justify you understand That's how you don't pay taxes after the money comes into your account you understand because the transfer has nothing to do with cryptocurrency the cash out itself if you understand what I mean",
+      "silence_after": 0.92,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Agent",
+      "start": 106.25,
+      "end": 118.669,
+      "text": "Yeah so what I don't understand Benjamin is what we are told Uh well first of all my next question is is uh can we transfer it back to index as we planned like you said and then convert it",
+      "silence_after": 1.82,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Customer",
+      "start": 120.489,
+      "end": 144.179,
+      "text": "Well this is something that has to be done with uh with atomic support I suppose it is possible I see no reason why it wouldn't be uh possible uh but if you can shoot them a message tell them I'm not interested in having it uh transferred in dollar Canadian uh I'm gonna transfer it over to index by myself and uh Well whether that's possible like you know what is needed so that kind of a message yeah",
+      "silence_after": 0.74,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Agent",
+      "start": 144.919,
+      "end": 159.02,
+      "text": "uh are they because of uh in terms of taxes when we get it back to index and do it on our account we put it in a special account and for the you know for whatever we have invested we don't have to pay taxes uh",
+      "silence_after": 0.13,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Customer",
+      "start": 159.149,
+      "end": 169.63,
+      "text": "so wait wait wait just just to correct you over there OK any money coming in the dollar Canadian from and tax right is taxable There is no debate about it",
+      "silence_after": 0.78,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Agent",
+      "start": 170.41,
+      "end": 170.809,
+      "text": "It is",
+      "silence_after": 0.12,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Customer",
+      "start": 170.929,
+      "end": 183.3,
+      "text": "The question is from what type of account or from what business is the money coming in and then that being uh one of Canada's largest cryptocurrency exchanges that money will be taxable at some point you understand",
+      "silence_after": 0.45,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Agent",
+      "start": 183.75,
+      "end": 186.85,
+      "text": "Oh yeah uh yeah OK yes it will be OK",
+      "silence_after": 1.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Customer",
+      "start": 187.85,
+      "end": 194.38,
+      "text": "100% there is no debate about it whether it's even $100 it's it's taxable you understand",
+      "silence_after": 0.59,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Agent",
+      "start": 194.97,
+      "end": 195.889,
+      "text": "OK there is no",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Customer",
+      "start": 195.889,
+      "end": 258.769,
+      "text": "debate about it and uh given that you have uh uh that you're withdrawing more than what you've invested right you will have taxes There is no question about it Now what Atomic as I was explained over here about my finances what Atomic is offering uh I mean it's not clearly explained So let's put it this way I have to give you a disclaimer It's a speculation right a very educated speculation Let's put it this way it can be clarified very much I Yes in a future couple of messages but what am I guessing is that's going to be a Canada transfer from uh uh uh your their account to your account That account that they will use will not have any kind of relations to cryptocurrency whatsoever Ergo the the the transfer that they're doing uh to you will be not taxable Now how are they going to justify giving you this fees back I have no idea To be honest this is not within my needs to understand I I I I I really don't clarify because in the screenshot that you sent me they mentioned that it is refundable Yes",
+      "silence_after": 1.91,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Agent",
+      "start": 260.679,
+      "end": 265.429,
+      "text": "Yeah and if it's taxes so that must be a Canadian company then there right because",
+      "silence_after": 0.44,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Customer",
+      "start": 265.869,
+      "end": 420.589,
+      "text": "no no it is a Canadian company No uh Atomic Atomic add it like where it was founded is in Tallinn Estonia So Atomic is uh um is coming from a Baltic country I don't know if you ever heard about Estonia Yeah you probably did right Yeah so it's uh it's a Baltic country uh and obviously Atomic having headquarters in Tallinn Estonia uh complies with the European Union financial Laws and regulations So I mean I don't know if that applies to their branch in Canada very much I'm not quite sure about it I really don't know but I'm guessing that there are some rules and regulations I mean let's put it this way I've had my clients uh withdrawn uh a lot of money to our account and uh some of these clients have you know cash out their entire accounts and we haven't spoken about it afterwards Some of them had some money left with us and continue working Nobody has ever been complaining Nobody nobody ever had any sort of situation in which they haven't gotten their money not to mention that AtomicWallet as a crypto company is way larger than us I mean facilitating a couple of $100,000 withdrawal or probably even a few million dollars is a piece of cake for them the way I see it you know crypto transactions are public So let's say for example uh when my clients put some money in Atomic and like the day you use it for staking Staking is investing your cryptocurrency for a certain period of time It's called staking So when they do that their money uh goes into some atomic wallet facilities meaning their own wallets These wallets are of course possible to be checked to see the balances and what kind of amount of money is moved over there and I can tell you it's uh the the trading volume is about a You know $6650 million on a 24 hour basis They're massive They're massive They're super big uh so from that kind of a perspective on the information that I can gather and what I've seen with my own eyes I can kind of personally vouch Atomic's legitimacy and of course there are facilities which are unprecedented Now how are you going to guys approach this uh of course it's I I leave it to you of course but let's put it this way in my way of thinking what do I think if you can skip the middleman which in this case would be the index and get your money straight into a Canada bank account I take it And not to mention that they refund everything you get it tax free It's uh it's the most beautiful deal you could wish for in my opinion I mean I uh as I said you will approach this however you see fit but",
+      "silence_after": 1.21,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Agent",
+      "start": 421.799,
+      "end": 422.2,
+      "text": "That would",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Customer",
+      "start": 422.2,
+      "end": 487.589,
+      "text": "be my kind of personal input I'm speaking with you now not in the capacity as an account manager This would be uh like I I'm in Geneva Switzerland simply because I don't wanna pay the government you know 40% of my money So you know I may may have a little bit of an unbiased opinion on taxes Um I uh I'm not kind of like a boy scout a good guy when it comes to taxes I will take advantage of every sport that I can get my hands on simply because I consider this to be uh how should I say a kind of a little bit of a thieving uh uh but but that's opinion right Let's put it this way I don't want to impose my On you that's my opinion yeah so when it comes to taxes and uh expenses of moving money or cashing out my investments and I'm coming from the United States you know in in in there they would skin you alive and God forbid you get sick you're you're done for You can basically go bankrupt you know and uh so I don't know I have a certain perspective on on the on the matter Uh and I'm OK to share that in perspective but of course like I said I don't expect you to have my perspective",
+      "silence_after": 0.38,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Agent",
+      "start": 487.97,
+      "end": 499.64,
+      "text": "So Benjamin would it hurt uh to ask them uh if we can uh go and send it forward to Nordex then the money would be enough index I mean uh money would be enough what we put in there",
+      "silence_after": 0.17,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Customer",
+      "start": 499.809,
+      "end": 525.544,
+      "text": "Yes of course that was my original suggestion The best thing would be of course to Uh shoot them a message and tell them uh uh would it be possible to get it done like this um but if it would not be a problem I mean then you can send me a screenshot later on if you can ask another side question or two regarding how do they plan to justify uh this uh uh fee being returned and whether that fee includes taxes as well taxation",
+      "silence_after": 0.34,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 31,
+      "speaker": "Agent",
+      "start": 525.885,
+      "end": 526.205,
+      "text": "Yeah",
+      "silence_after": 0.76,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 32,
+      "speaker": "Customer",
+      "start": 526.969,
+      "end": 528.679,
+      "text": "But you don't have to if you don't want to",
+      "silence_after": 0.39,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 33,
+      "speaker": "Agent",
+      "start": 529.07,
+      "end": 530.219,
+      "text": "Yeah no no good point",
+      "silence_after": 0.91,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 34,
+      "speaker": "Customer",
+      "start": 531.13,
+      "end": 538.479,
+      "text": "yeah yeah yeah because if it does then you got yourself the best deal there is obviously So",
+      "silence_after": 0.28,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 35,
+      "speaker": "Agent",
+      "start": 538.76,
+      "end": 538.96,
+      "text": "so in",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 36,
+      "speaker": "Customer",
+      "start": 538.96,
+      "end": 539.76,
+      "text": "other words",
+      "silence_after": 0.16,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 37,
+      "speaker": "Agent",
+      "start": 539.919,
+      "end": 540.08,
+      "text": "um",
+      "silence_after": 0.08,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 38,
+      "speaker": "Customer",
+      "start": 540.159,
+      "end": 540.88,
+      "text": "what you're saying",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 39,
+      "speaker": "Agent",
+      "start": 540.88,
+      "end": 541.549,
+      "text": "that extra",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 40,
+      "speaker": "Customer",
+      "start": 541.549,
+      "end": 542.159,
+      "text": "fee of almost",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 41,
+      "speaker": "Agent",
+      "start": 542.159,
+      "end": 543.159,
+      "text": "27,000",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 42,
+      "speaker": "Customer",
+      "start": 543.159,
+      "end": 543.52,
+      "text": "dollars",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 43,
+      "speaker": "Agent",
+      "start": 543.52,
+      "end": 546.469,
+      "text": "would be including income tax Canadian income tax is that",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 44,
+      "speaker": "Customer",
+      "start": 546.469,
+      "end": 546.719,
+      "text": "what you're",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 45,
+      "speaker": "Agent",
+      "start": 546.719,
+      "end": 546.96,
+      "text": "saying",
+      "silence_after": 0.16,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 46,
+      "speaker": "Customer",
+      "start": 547.119,
+      "end": 608.039,
+      "text": "Not income tax capital gains tax Uh you would have income tax only if you are licenced and registered day traders meaning you do this for a living you understand Uh capital gains tax does not It's only subjected to what you guys are doing You guys are not day traders That's important to emphasise So day traders will have income tax right Simply because uh uh this is their job This is their profession This is what they do for a living Capital gains tax is a simple sale of the asset you understand CRA does not have any sort of information what you do with your trading account with all real group You understand that that there is no information about it They only see that you've transferred a certain amount of crypto and that you've got back a certain amount of crypto which is initially let's say for example like you did with that right You bought a certain amount of Bitcoin you transferred it over to some wallet You don't They don't know what kind of conversion has it been done Did you buy Bitcoin Bitcoin Cash Ethereum",
+      "silence_after": 1.23,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 47,
+      "speaker": "Customer",
+      "start": 609.27,
+      "end": 663.044,
+      "text": "Did you buy Fna Did you buy Cardano Did you buy some old coins that is let's say way below 1 cent because people do that all the time uh but just for me to clarify probably Atomic's perspective In Atomic you've noticed hundreds if probably not thousands of coins available over there The majority of coins on atomic are way below a set which means let's say for about $1000 you would get let's say $25 million or even $25 billion of these coins And if even one of them right rises to let's say half a dollar or $1 People will end up making from $1000 probably a couple of 100 thousands or millions of dollars Now of course this is borderline gambling but when we're talking about tax limitation of expenses and especially in crypto this is how you justify it especially we're doing crypto trading",
+      "silence_after": 1.54,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 48,
+      "speaker": "Agent",
+      "start": 664.58,
+      "end": 673.539,
+      "text": "Yeah so capital Benjamin understand that for me So if there's a cap that tax we we're gonna ask them I think but uh that will be capital gain taxes and then who",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 49,
+      "speaker": "Customer",
+      "start": 673.539,
+      "end": 675.64,
+      "text": "would GST yes yes yes capital gains tax",
+      "silence_after": 0.26,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 50,
+      "speaker": "Agent",
+      "start": 675.9,
+      "end": 678.78,
+      "text": "Who would keep that like the the company",
+      "silence_after": 1.33,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 51,
+      "speaker": "Customer",
+      "start": 680.109,
+      "end": 720.739,
+      "text": "Uh no no uh well listen as for the message that they've sent you would get that back I mean I am guessing that they would take some money out the facilitation of the transfer right These things usually go without saying but uh if you can get away with uh I don't know let's say $69,000 American plus the 20 whatever they're asking in canada dollars I'm not quite sure uh but uh Uh let's say uh let's say it all rounds up to what about 1150 to $60,000 Canadian and let's say you get back 1100 I would still consider this to be an amazing deal So",
+      "silence_after": 1.23,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 52,
+      "speaker": "Customer",
+      "start": 721.969,
+      "end": 733.01,
+      "text": "uh uh uh in order to break it down right ask them for the option of transferring it just to index and then you do everything on your own and you're handling everything on your own right even when taxes come into play",
+      "silence_after": 0.22,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 53,
+      "speaker": "Agent",
+      "start": 733.229,
+      "end": 738.309,
+      "text": "and then and Benjamin and index they don't charge that extra fee or you don't know",
+      "silence_after": 1.5,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 54,
+      "speaker": "Agent",
+      "start": 739.809,
+      "end": 740.0,
+      "text": "yeah",
+      "silence_after": 0.41,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 55,
+      "speaker": "Customer",
+      "start": 740.409,
+      "end": 758.239,
+      "text": "you have a fee you have Have a fee for the transfer but they are not dealing with taxes you understand They will send you the money and however you deal with it you deal with it So uh but I got a question for you If it's not a problem of course what kind of tax bracket are you guys in percentage wise",
+      "silence_after": 0.47,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 56,
+      "speaker": "Agent",
+      "start": 758.71,
+      "end": 758.76,
+      "text": "I think it's",
+      "silence_after": 2.16,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 57,
+      "speaker": "Agent",
+      "start": 760.919,
+      "end": 761.94,
+      "text": "35% I",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 58,
+      "speaker": "Customer",
+      "start": 761.94,
+      "end": 762.34,
+      "text": "think",
+      "silence_after": 1.44,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 59,
+      "speaker": "Customer",
+      "start": 763.78,
+      "end": 764.88,
+      "text": "Are you above 40",
+      "silence_after": 0.42,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 60,
+      "speaker": "Agent",
+      "start": 765.299,
+      "end": 767.84,
+      "text": "Uh no I don't think about 40 no",
+      "silence_after": 1.58,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 61,
+      "speaker": "Agent",
+      "start": 769.419,
+      "end": 801.08,
+      "text": "no So uh yeah so I mean and then for the first for this amount we are not supposed to pay taxes what we get back now because that's what we in total invested roughly right what we sent there So uh so in terms of income our accountant there's no taxes to pay um maybe a little bit a little bit over but you know what I mean right The $65,000 US dollars It's about equal what we sent Uh so when we take that out uh there shouldn't be any taxes for us",
+      "silence_after": 0.78,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 62,
+      "speaker": "Customer",
+      "start": 801.859,
+      "end": 816.94,
+      "text": "Yes that is correct Yeah taxes should be uh calculated uh the amount of money that you transferred uh sorry the amount of money that you're withdrawing minus the amount of money that you transferred and that amount of money that you've uh that is the difference subject subject to taxes",
+      "silence_after": 0.4,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 63,
+      "speaker": "Agent",
+      "start": 817.34,
+      "end": 817.599,
+      "text": "Right",
+      "silence_after": 1.39,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 64,
+      "speaker": "Agent",
+      "start": 818.989,
+      "end": 820.419,
+      "text": "OK uh yeah",
+      "silence_after": 0.19,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 65,
+      "speaker": "Customer",
+      "start": 820.609,
+      "end": 828.95,
+      "text": "But please double check everything with them Double check everything with them Shoot them a message as soon as they reply Send me a screenshot and I'll and I'll get back with you That's OK",
+      "silence_after": 0.42,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 66,
+      "speaker": "Agent",
+      "start": 829.369,
+      "end": 830.549,
+      "text": "Good thanks so much",
+      "silence_after": 0.54,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 67,
+      "speaker": "Customer",
+      "start": 831.09,
+      "end": 834.609,
+      "text": "No problem You're welcome OK bye Jurgen Bye Rachel",
+      "silence_after": 0.0,
+      "phase": "CLOSING"
+    }
+  ]
+}
