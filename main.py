@@ -14,4 +14,4 @@ if __name__ == "__main__":
     process_transcripts_folder(
         input_dir="transcripts/aws_raw",
         output_dir="transcripts/parsed"
-    )
+     )

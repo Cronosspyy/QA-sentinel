@@ -48,7 +48,8 @@ def start_transcription(transcribe_client, media_uri: str, job_prefix: str):
         TranscriptionJobName=job_name,
         Media={"MediaFileUri": media_uri},
         MediaFormat=media_uri.split(".")[-1],
-        LanguageCode="en-IN",
+        LanguageOptions=["en-IN","hi-IN"],
+        IdentifyLanguage=True,
         Settings={
             "ShowSpeakerLabels": True,
             "MaxSpeakerLabels": 2
