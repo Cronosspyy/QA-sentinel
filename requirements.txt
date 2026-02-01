@@ -1,2 +1,7 @@
 boto3
 python-dotenv
+fastapi
+uvicorn
+python-multipart
+psycopg2-binary
+requests

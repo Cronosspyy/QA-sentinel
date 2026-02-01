@@ -22,10 +22,11 @@ DDL_STATEMENTS = [
         agent_id TEXT,
         city TEXT,
         call_time TIMESTAMP,
-        qa_score INT NOT NULL,
-        qa_band TEXT NOT NULL,
-        sentiment_trend TEXT NOT NULL,
-        is_good_call BOOLEAN NOT NULL,
+        status TEXT DEFAULT 'UPLOADED',
+        qa_score INT,
+        qa_band TEXT,
+        sentiment_trend TEXT,
+        is_good_call BOOLEAN,
         created_at TIMESTAMP DEFAULT NOW()
     );
     """,
@@ -59,9 +60,27 @@ DDL_STATEMENTS = [
     # ----------------------------
     """
     CREATE TABLE IF NOT EXISTS supervisor_alerts (
-        call_id TEXT PRIMARY KEY REFERENCES calls(call_id) ON DELETE CASCADE,
+        alert_id SERIAL PRIMARY KEY,
+        call_id TEXT REFERENCES calls(call_id) ON DELETE CASCADE,
         alert_level TEXT NOT NULL,
-        action_required TEXT NOT NULL,
+        reason TEXT,
+        status TEXT DEFAULT 'NEW',
+        acknowledged_by TEXT,
+        acknowledged_at TIMESTAMP,
+        resolved_at TIMESTAMP,
+        created_at TIMESTAMP DEFAULT NOW()
+    );
+    """,
+
+    # ----------------------------
+    # CALL NOTES
+    # ----------------------------
+    """
+    CREATE TABLE IF NOT EXISTS call_notes (
+        note_id SERIAL PRIMARY KEY,
+        call_id TEXT REFERENCES calls(call_id) ON DELETE CASCADE,
+        note_text TEXT NOT NULL,
+        created_by TEXT,
         created_at TIMESTAMP DEFAULT NOW()
     );
     """

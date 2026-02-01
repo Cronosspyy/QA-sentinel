@@ -1,0 +1,213 @@
+{
+  "call_id": "453e87ec-221d-4d80-a9c0-fc25f3c4e597",
+  "source": "aws_transcribe",
+  "speaker_map": {
+    "spk_0": "Agent",
+    "spk_1": "Customer"
+  },
+  "summary": {
+    "num_turns": 22,
+    "interruptions": 0,
+    "duration_sec": 111.709
+  },
+  "turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Agent",
+      "start": 2.14,
+      "end": 2.89,
+      "text": "Hello",
+      "silence_after": 1.04,
+      "phase": "OPENING"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Customer",
+      "start": 3.93,
+      "end": 7.46,
+      "text": "\u0928\u092e\u0938\u094d\u0915\u093e\u0930 \u0938\u093f\u0930 \u092e\u0947\u0902 \u0906\u092a\u0915\u093e \u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948 \u092e\u0948\u0902 \u091c\u094d\u092f\u094b\u0924\u093f \u0906\u092a\u0915\u0940 \u0915\u094d\u092f\u093e \u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901",
+      "silence_after": 2.26,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Agent",
+      "start": 9.72,
+      "end": 14.659,
+      "text": "\u092e\u0948\u0902\u0928\u0947 \u092e\u0948\u0902 \u092c\u094b\u0932 \u0930\u0939\u093e \u0939\u0942\u0901 \u092e\u0947\u0930\u0940 battery ID \u0939\u0948 double one six eight eight",
+      "silence_after": 0.8,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Customer",
+      "start": 15.46,
+      "end": 19.229,
+      "text": "\u0906\u092a\u0915\u0940 driver ID double one six double eight three \u0928\u093e\u092e \u092c\u0924\u093e \u0926\u0940\u091c\u093f\u090f \u0915\u093f\u0938 \u0928\u093e\u092e \u0938\u0947 \u0939\u0948 \u0906\u092a",
+      "silence_after": 1.11,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Agent",
+      "start": 20.34,
+      "end": 21.969,
+      "text": "\u0906\u0930\u094d\u092f\u0928",
+      "silence_after": 1.2,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Customer",
+      "start": 23.17,
+      "end": 25.11,
+      "text": "\u0906\u0930\u094d\u092f\u0928 \u0924\u0941\u0932\u0938\u0940 \u091c\u0940 \u0915\u0947 \u0928\u093e\u092e \u0938\u0947 \u0906\u092a \u091c\u0940 \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901 \u0906\u092a\u0915\u0940",
+      "silence_after": 2.08,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Agent",
+      "start": 27.19,
+      "end": 28.239,
+      "text": "\u0928\u0939\u0940\u0902 \u092e\u0948\u0902\u0928\u0947 \u0915\u0930 \u0932\u093f\u092f\u093e",
+      "silence_after": 1.14,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Customer",
+      "start": 29.379,
+      "end": 29.909,
+      "text": "\u091c\u0940",
+      "silence_after": 1.5,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Agent",
+      "start": 31.409,
+      "end": 31.44,
+      "text": "\u0925\u094b\u095c\u0940",
+      "silence_after": 2.67,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Customer",
+      "start": 34.11,
+      "end": 35.849,
+      "text": "\u0925\u094b\u095c\u0940 \u0926\u0947\u0930 \u092a\u0939\u0932\u0947 \u092c\u0948\u0920\u0940 \u0932\u0940 \u0925\u0940 \u0906\u092a\u0928\u0947",
+      "silence_after": 2.19,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Customer",
+      "start": 38.04,
+      "end": 40.299,
+      "text": "\u0906\u092a\u0928\u0947 \u0938\u092c swap \u0932\u093f\u092f\u093e \u0925\u093e \u090f\u0915 \u092c\u091c\u0915\u0930 \u092a\u093e\u0902\u091a \u092e\u093f\u0928\u091f \u092a\u0947",
+      "silence_after": 1.17,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Agent",
+      "start": 41.47,
+      "end": 42.279,
+      "text": "\u0939\u093e\u0901 \u091c\u0940 \u0939\u093e\u0901 \u091c\u0940",
+      "silence_after": 0.59,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Customer",
+      "start": 42.869,
+      "end": 45.54,
+      "text": "\u0914\u0930 \u0905\u092d\u0940 \u0915\u094d\u092f\u093e \u0926\u093f\u0915\u094d\u0915\u0924 \u0906 \u0930\u0939\u0940 \u0939\u0948 \u0906\u092a\u0915\u094b \u092c\u0948\u091f\u0930\u0940 \u091c\u0932\u094d\u0926\u0940 discharge \u0939\u094b \u0930\u0939\u0940 \u0939\u0948 \u0906\u092a\u0915\u0940",
+      "silence_after": 2.01,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Customer",
+      "start": 47.549,
+      "end": 51.459,
+      "text": "\u0905\u092d\u0940 \u0938\u093f\u0930 \u0906\u092a\u0915\u094b \u090f\u0915 \u0918\u0902\u091f\u093e \u092d\u0940 \u0928\u0939\u0940\u0902 \u0939\u0941\u0906 \u0939\u0948 \u0915\u093f \u0915\u093f\u0924\u0928\u093e \u091a\u093e\u0930\u094d\u091c \u0939\u0948 \u0905\u092d\u0940 \u092c\u0948\u091f \u092e\u0947\u0902 \u0906\u092a\u0915\u0947",
+      "silence_after": 2.1,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Agent",
+      "start": 53.56,
+      "end": 54.959,
+      "text": "\u092e\u0947\u0930\u0940 \u092a\u091a\u0939\u0924\u094d\u0924\u0930 \u092a\u0930\u094d\u0938\u0947\u0902\u091f \u0939\u094b \u0917\u092f\u093e \u0939\u0948",
+      "silence_after": 0.44,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Customer",
+      "start": 55.4,
+      "end": 62.99,
+      "text": "\u092a\u091a\u0939\u0924\u094d\u0924\u0930 \u092a\u0930\u094d\u0938\u0947\u0902\u091f \u0939\u0948 \u0928\u093e \u0938\u093f\u0930 \u0905\u092d\u0940 \u091a\u093e\u0930\u094d\u091c \u0906\u092a\u0915\u094b \u090f\u0915 \u0918\u0902\u091f\u093e \u092d\u0940 \u0928\u0939\u0940\u0902 \u0939\u0941\u0906 \u0905\u092d\u0940 \u0906\u092a \u0925\u094b\u095c\u0940 \u0926\u0947\u0930 \u0914\u0930 \u091a\u0932\u093e \u0932\u0940\u091c\u093f\u090f \u092c\u0948\u0920\u0947 \u0906\u0927\u0947 \u0918\u0902\u091f\u0947 \u0914\u0930 \u091c\u0932\u094d\u0926\u0940 \u0921\u093f\u0938\u094d\u091a\u093e\u0930\u094d\u091c \u0939\u094b\u0928\u0947 \u0932\u0917\u0947\u0917\u0940 \u0924\u094b \u0915\u0949\u0932 \u0915\u0930 \u0932\u0940\u091c\u093f\u090f\u0917\u093e \u0906\u092a \u0939\u092e\u0947\u0902",
+      "silence_after": 3.6,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Customer",
+      "start": 66.589,
+      "end": 72.959,
+      "text": "\u0939\u093e\u0901 \u091c\u0940 \u0905\u092d\u0940 \u0906\u092a \u0909\u0938 \u091f\u093e\u0907\u092e \u0909\u0938\u0947 \u0915\u0930 \u0932\u0940\u091c\u093f\u090f \u092c\u0948\u091f\u0930\u0940 \u0915\u094b \u0905\u0917\u0930 \u091c\u0932\u094d\u0926\u0940 discharge \u0939\u094b\u0928\u0947 \u0932\u0917\u0947\u0917\u0940 \u0906\u092a \u0939\u092e\u0947\u0902 \u0915\u0930 \u0926\u0940\u091c\u093f\u090f\u0917\u093e \u0915\u094b\u0908 \u0914\u0930 \u0938\u0939\u093e\u092f\u0924\u093e \u0906\u092a\u0915\u0940 battery smart \u0938\u0947 \u0938\u092e\u094d\u092c\u0902\u0927\u093f\u0924 \u0939\u0948",
+      "silence_after": 1.51,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Agent",
+      "start": 74.47,
+      "end": 75.069,
+      "text": "\u0928\u0939\u0940\u0902 \u0928\u0939\u0940\u0902",
+      "silence_after": 1.21,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Customer",
+      "start": 76.279,
+      "end": 85.809,
+      "text": "\u0906\u092a\u0915\u0940 \u0915\u0949\u0932 \u0915\u094b \u0906\u0908\u0935\u0940\u0906\u0930 \u092a\u0947 \u092b\u0940\u0921\u092c\u0948\u0915 \u0915\u0947 \u0932\u093f\u090f \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0901 \u0905\u0917\u0930 \u0906\u092a \u0926\u0940 \u0917\u0908 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0938\u0947 \u0938\u0939\u092e\u0924 \u0939\u0948 \u0924\u094b \u090f\u0915 \u0926\u092c\u093e \u0926\u0940\u091c\u093f\u092f\u0947 \u0914\u0930 \u0938\u093f\u0930 \u0905\u0917\u0930 \u0906\u092a \u0938\u0939\u092e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u0924\u094b \u0926\u094b \u0926\u092c\u093e \u0926\u0940\u091c\u093f\u092f\u0947 \u092e\u0947\u0902 \u0915\u0949\u0932 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0927\u0928\u094d\u092f\u0935\u093e\u0926 \u0938\u093f\u0930 \u0938\u094d\u0935\u0938\u094d\u0925 \u0930\u0939\u093f\u090f \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0930\u0939\u093f\u090f",
+      "silence_after": 1.43,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Customer",
+      "start": 87.239,
+      "end": 92.83,
+      "text": "\u0905\u0917\u0930 \u0906\u092a \u0939\u092e\u093e\u0930\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0926\u0940 \u0917\u0908 \u0938\u0939\u093e\u092f\u0924\u093e \u0938\u0947 \u0916\u0941\u0936 \u0939\u0948\u0902 \u0924\u094b \u090f\u0915 \u0926\u092c\u093e\u090f\u0902 \u0905\u0917\u0930 \u0928\u0939\u0940\u0902 \u0924\u094b \u0926\u094b \u0926\u092c\u093e\u090f\u0902",
+      "silence_after": 5.26,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Customer",
+      "start": 98.089,
+      "end": 101.4,
+      "text": "\u0906\u092a\u0915\u0940 \u0924\u0930\u092b \u0938\u0947 \u0915\u094b\u0908 \u092d\u0940 \u091a\u0941\u0928\u093e\u0935 \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948",
+      "silence_after": 1.34,
+      "phase": "RESOLUTION"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Customer",
+      "start": 102.739,
+      "end": 111.709,
+      "text": "\u0905\u0917\u0930 \u0906\u092a \u0939\u092e\u093e\u0930\u0947 \u0926\u094d\u0935\u093e\u0930\u093e \u0926\u0940 \u0917\u0908 \u0938\u0939\u093e\u092f\u0924\u093e \u0938\u0947 \u0916\u0941\u0936 \u0939\u0948 \u0924\u094b \u090f\u0915 \u0926\u0935\u093e \u0906\u092a\u0915\u0940 \u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u0939\u092e\u093e\u0930\u0947 \u0932\u093f\u090f \u092c\u0939\u0941\u0924 \u092e\u093e\u092f\u0928\u0947 \u0930\u0916\u0924\u0940 \u0939\u0948 \u092c\u0948\u091f\u0930\u0940 \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u091a\u0941\u0928\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0927\u0928\u094d\u092f\u0935\u093e\u0926",
+      "silence_after": 0.0,
+      "phase": "RESOLUTION"
+    }
+  ]
+}
